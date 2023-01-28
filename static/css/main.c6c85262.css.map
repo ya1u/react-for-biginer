@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c6c85262.css","mappings":"AAAA,YAKE,wBAA8B,CAF9B,oBAAqB,CADrB,YAAc,CAEd,WAAY,CAHZ,WAKF,CAEA,UACE,WACF","sources":["Movie.css"],"sourcesContent":[".movie_list {\n  width : 600px;\n  height:  420px;\n  display: inline-block;\n  margin: 10px;\n  background-color: antiquewhite;\n}\n\n.coverImg {\n  width: 100px;\n}"],"names":[],"sourceRoot":""}
